@@ -15,6 +15,7 @@
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=juxnillo)
 
 I am a beginner developer.
+
 I use github mainly to maintain my linux system, and I intend to host my projects there as well.
 
 I like to invest my time in finding resources to enhance my programming and Linux skills.
