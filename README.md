@@ -7,26 +7,27 @@
 [paypal]: [https://paypal.me/jxtora?country.x=ES&locale.x=es_ES]
 
 
-### <Hi there, I'm <a href="https://x.com/juxnillooo" target="_blank">Juan</a>>
+### <Hi there, I'm <a href="https://x.com/juxnillooo" target="_blank">Juan</a>😄>
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=X&logoColor=white)][twitter]
 [![Reddit Badge](https://img.shields.io/badge/-Reddit-ff4500?style=flat-square&logo=reddit&logoColor=white)][reddit]
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1c93e3?style=flat-square&logo=Telegram&logoColor=white)][telegram]
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=juxnillo)
 
-I am a beginner developer.
+I am a beginner developer from Spain 🇪🇦
 
-I use github mainly to maintain my linux system, and I intend to host my projects there as well.                                     I like to invest my time in finding resources to enhance my programming and Linux skills.
+I use github mainly to maintain my linux system, and I intend to host my projects there as well. I like to invest my time in finding resources to enhance my programming and Linux skills. I currently have 6 months of experience in the linux ecosystem, 2 with Fedora Workstation and 4 with ArchLinux.
 
-**Personal Stuff**
+**🖥️ Personal Stuff**
 
-- I'm currently learning Full-Stack Development
-- I'm currently working on improve my skills with linux
-- How to contact me: [juancamposvillarejo@gmail.com][gmail]
+- ⌨️ I'm currently learning Full-Stack Development
+- 🧑🏻‍🔧 I'm currently working on improve my skills with linux
+- 🎮 I like to talk about computers and games
+- 🗣️ How to contact me: [juancamposvillarejo@gmail.com][gmail]
 
 </br>
 
-**My GitHub Stats:**
+**📊 My GitHub Stats:**
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juxnillo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
