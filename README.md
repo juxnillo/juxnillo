@@ -7,7 +7,10 @@
 [paypal]: [https://paypal.me/jxtora?country.x=ES&locale.x=es_ES]
 
 
-### <Hi there, I'm <a href="https://x.com/juxnillooo" target="_blank">Juan</a> >
+### <Hi there, I'm <a href="https://x.com/juxnillooo" target="_blank">Juan</a>>
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=X&logoColor=white)][twitter]
+[![Reddit Badge](https://img.shields.io/badge/-Reddit-ff4500?style=flat-square&logo=reddit&logoColor=white)][reddit]
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1c93e3?style=flat-square&logo=Telegram&logoColor=white)][telegram]
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=juxnillo)
 
