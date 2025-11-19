@@ -16,7 +16,7 @@
 
 I am a beginner developer from Spain 🇪🇦
 
-I use github mainly to maintain my linux system, and I intend to host my projects there as well. I like to invest my time in finding resources to enhance my programming and Linux skills. I currently have 6 months of experience in the linux ecosystem, 2 with Fedora Workstation and 4 with ArchLinux.
+I use github mainly to maintain my linux system, and I intend to host my projects there as well. I like to invest my time in finding resources to enhance my programming and Linux skills. I currently have 1,2 years of experience in the linux ecosystem, 2 Months with Fedora Workstation and 1 year with ArchLinux.
 
 **🖥️ Personal Stuff**
 
