@@ -49,4 +49,4 @@ I use github mainly to maintain my linux system, and I intend to host my project
 </br>
 **📊 My GitHub Stats:** 
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=juxnillo&show_icons=true&theme=radical)
+[![GitHub stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=juxnillo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
