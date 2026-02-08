@@ -16,12 +16,12 @@
 ## 👤 About me
 I am a beginner developer from Spain 🇪🇦
 
-I use github mainly to maintain my linux system, and I intend to host my projects there as well. I like to invest my time in finding resources to enhance my programming and Linux skills. I currently have 1.2 years of experience in the linux ecosystem, 2 Months with Fedora Workstation and 1 year with ArchLinux.
+Github it's the house of my projects, my linux ecosystem and all other things related to the open-source community. I'm excited to share everything i do.
 
 ### **🖥️ Personal Stuff**
 
-- ⌨️ I'm currently learning Full-Stack Development
-- 🧑🏻‍🔧 I'm currently working on improve my skills with linux
+- ⌨️ I'm learning Backend Development
+- 🧑🏻‍🔧 I'm working on improve my skills with linux
 - 🎮 I like to talk about computers and games
 - 🗣️ How to contact me: [juancamposvillarejo@gmail.com][gmail]
 
