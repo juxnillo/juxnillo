@@ -46,7 +46,3 @@ I use github mainly to maintain my linux system, and I intend to host my project
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
-</br>
-**📊 My GitHub Stats:** 
-
-[![GitHub stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=juxnillo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
