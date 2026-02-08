@@ -31,6 +31,8 @@ I use github mainly to maintain my linux system, and I intend to host my project
 **📊 My GitHub Stats:**
 
 <p>
+  
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juxnillo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 </p>
 
