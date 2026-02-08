@@ -26,6 +26,7 @@ I use github mainly to maintain my linux system, and I intend to host my project
 - 🗣️ How to contact me: [juancamposvillarejo@gmail.com][gmail]
 
 ## 💻 Tech i put my hands on...
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
@@ -46,13 +47,6 @@ I use github mainly to maintain my linux system, and I intend to host my project
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 </br>
+**📊 My GitHub Stats:** 
 
-
-**📊 My GitHub Stats:**
-
-<p>
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juxnillo&show_icons=true&theme=radical)]
-
-</p>
-
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=juxnillo&show_icons=true&theme=radical)
