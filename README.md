@@ -13,12 +13,12 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1c93e3?style=flat-square&logo=Telegram&logoColor=white)][telegram]
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=juxnillo)
-
+## 👤 About me
 I am a beginner developer from Spain 🇪🇦
 
 I use github mainly to maintain my linux system, and I intend to host my projects there as well. I like to invest my time in finding resources to enhance my programming and Linux skills. I currently have 1.2 years of experience in the linux ecosystem, 2 Months with Fedora Workstation and 1 year with ArchLinux.
 
-**🖥️ Personal Stuff**
+### **🖥️ Personal Stuff**
 
 - ⌨️ I'm currently learning Full-Stack Development
 - 🧑🏻‍🔧 I'm currently working on improve my skills with linux
@@ -27,10 +27,10 @@ I use github mainly to maintain my linux system, and I intend to host my project
 
 </br>
 
+
 **📊 My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juxnillo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juxnillo&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juxnillo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
